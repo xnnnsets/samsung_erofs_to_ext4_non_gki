@@ -8,12 +8,12 @@ on:
       GSI:
         description: 'Samfw Link For AP'
         required: true
-        default: ' AP LINK FROM SAMFW'
+        default: 'https://10-samfw.cloud/v2/IxJCDiMnLg07ACxADUAsAi4vI0AeOx4lFzssIDs2ByAzMUEgOzEUQDMQMCMBOyw/MywiHy4nHwEDJz4AMxAwNRInHh8uByEjITEuMCE4QSc0MTxAOxcCBCEQMBIzER8dITAhJRIWQQAzJx8JPCQpQAEbBwAhNjA9MzAeKTQWNB8JODYfEjYULDVABkIeCzwGHgM8FCMkNDEjCxVACTghHzInDQYuFx8rIwAvJCFAMxE8EQY5NRshDjURPho0ES8kNRYhOR44LwsJEQc5NBsjKyEAPg4hAAYsLjgeLDQRHg4yJTMsMiUNKzwAPh8mGzk5FyUzDTUHQQEuByADISxBIwMnOUANQAokMzYCICMXPjkDFzA1CS8pDTsxHhwzQAZCDS8gJg0DIzEeNi88Fwc7HQ0wKRsBBz4gIyQNADMvKTwvAykWFwg0HTgxMDMNCxUkHiQ8FAEDNh04MEEHLwsiOThALyQhOEEmMic+QDhAHgo1OCAmAy8vIy8ILCYNMS8SLwc+HyE4Myk4MT4DIwMNKy4nBz8JETA2HhIUPTU4IEImCAUkMxEHEjsHKT8DJSwINDYwJyMnLgsyBwIGEjAvCzw7PAYNOC8wEjEuIyM4BkIjAzQ/AQMFMR4DPCQjIhMT'
       
       Firmware:
         description: 'Firmware version'
         required: true
-        default: 'EG - :A055FXXU2AWK1'
+        default: 'A346EXXU8CXG8'
 
 jobs:
   Build:
